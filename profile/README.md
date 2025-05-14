@@ -1,41 +1,22 @@
 # Mercury School Journal
-<!--
-![Mercury Logo]() 
 
-## Description
+Link do aplikacji (frontend):
+- [https://mercury-school-journal.github.io/](https://mercury-school-journal.github.io/)
+- [https://mercury.pawil.eu/](https://mercury.pawil.eu/)
 
-The Mercury School Journal is a modern tool that enables teachers, students, and parents to easily manage information about academic progress. Our application offers features such as:
+Wersja desktopowa oraz andrioid jest dostępna w zakładce releases
 
-- **Grade Management**: Teachers can input and track student grades.
-- **Class Schedule**: Students can view their class schedules.
-- **Communication**: Facilitates contact between teachers and parents.
-- **Reports**: Generates progress reports for students.
+Link do api (backend):
+- [https://api.mercury.pawil.eu/](https://api.mercury.pawil.eu/) (Port 443)
 
-## Installation
+Przykładowe konta:
+- user
+  - email: user@example.com
+  - password: user123
 
-To install the Mercury School Journal, follow these steps:
+- nauczyciel
+  - email: nauczyciel@example.com
+  - password: nauczyciel123
 
-
-
-## Usage
-
-To run the application, use the following command:
-
-
-## Contributing
-
-If you would like to contribute to the development of the Mercury School Journal, please check our contribution guidelines in the [CONTRIBUTING.md]().
-
-## License
-
-This project is licensed under the [](link_to_license).
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to us:
-
-- Email: 
-- Website: []()
-
-Thank you for your interest in the Mercury School Journal!
--->
+Kontakt:
+p.rutkow@o2.pl
