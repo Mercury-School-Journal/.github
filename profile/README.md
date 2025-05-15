@@ -2,7 +2,7 @@
 
 Link do aplikacji (frontend):
 - [https://mercury-school-journal.github.io/](https://mercury-school-journal.github.io/)
-- [https://mercury.pawil.eu/](https://mercury.pawil.eu/)
+- <s>[https://mercury.pawil.eu/](https://mercury.pawil.eu/)</s> (dostępne wkrótce)
 
 Wersja desktopowa oraz andrioid jest dostępna w zakładce releases
 
